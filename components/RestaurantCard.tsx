@@ -29,7 +29,7 @@ const RestaurantCard = ({
     lat,
 }: PropsRestaurantCard) => {
   return (
-    <TouchableOpacity className="bg-white mr-3 shadow">
+    <TouchableOpacity className="bg-white mr-3 shadow ">
       <Image
         source={{
             uri: imgUrl
